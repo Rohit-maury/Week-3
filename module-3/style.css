@@ -1,0 +1,29 @@
+body{
+    font-size: 15px;
+    color:black;
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+}
+#header-nav{
+    background-color: rgb(46, 97, 93);
+    border-radius: 0;
+    border: 0;
+}
+.bdname{
+    color: white;
+    font-size: 30px;
+    font-style: normal;
+}
+#nav-list{
+    margin: 10px;
+}
+#nav-list a{
+    color: crimson;
+}
+#nav-list a:hover{
+    background-color: rgb(218, 199, 171);
+    
+}
+.contain{margin-bottom: 30px;
+ 
+}
